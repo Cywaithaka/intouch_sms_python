@@ -5,7 +5,7 @@ import logging
 
 username = "" # intouch username
 password = "" # intouch user password
-sender_id = "KRAYON" # Sender SMS Shortcode
+sender_id = "Intouchvas" # Sender SMS Shortcode
 msisdn = "+254721458132" # Recipient number 
 api_token = "generated_api_key"
 
